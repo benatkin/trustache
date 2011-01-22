@@ -1,4 +1,4 @@
-// This is the [vows](http://vowsjs.org/) test suite for [hop](hop.html).
+// This is the [vows](http://vowsjs.org/) test suite for [trustache](trustache.html).
 
 var  vows = require('vows'),
    assert = require('assert')

@@ -1,6 +1,6 @@
-// `\:hop\/` - Simple Tree Traversal
+// `trustache` - A poor man's mustache
 //
-// A [test suite](hop_test.html) is available.
+// A [test suite](trustache_test.html) is available.
 
 Trustache = {};
 
